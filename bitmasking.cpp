@@ -9,6 +9,7 @@ long long x=0;
 x=x|(1<<5);
 x=x|(1<<1);
 cout<<x;
-cout<<"change 2";
+
+cout<<"change1";
 
 }
